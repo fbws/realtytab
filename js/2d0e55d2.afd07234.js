@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0e55d2"],{"93bd":function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("q-page",{staticClass:"flex flex-center"},[t("p",[e._v("Queue")])])},l=[],a={name:"Queue"},s=a,c=t("2877"),r=Object(c["a"])(s,u,l,!1,null,null,null);n["default"]=r.exports}}]);
